@@ -1,13 +1,13 @@
 {
-  "main.css": "/chingu-bookfinder/static/css/main.f006647b.chunk.css",
-  "main.js": "/chingu-bookfinder/static/js/main.970d271e.chunk.js",
-  "main.js.map": "/chingu-bookfinder/static/js/main.970d271e.chunk.js.map",
+  "main.css": "/chingu-bookfinder/static/css/main.16f7478c.chunk.css",
+  "main.js": "/chingu-bookfinder/static/js/main.c5211e00.chunk.js",
+  "main.js.map": "/chingu-bookfinder/static/js/main.c5211e00.chunk.js.map",
   "runtime~main.js": "/chingu-bookfinder/static/js/runtime~main.81a04e1b.js",
   "runtime~main.js.map": "/chingu-bookfinder/static/js/runtime~main.81a04e1b.js.map",
-  "static/js/2.8673c173.chunk.js": "/chingu-bookfinder/static/js/2.8673c173.chunk.js",
-  "static/js/2.8673c173.chunk.js.map": "/chingu-bookfinder/static/js/2.8673c173.chunk.js.map",
+  "static/js/2.1388d388.chunk.js": "/chingu-bookfinder/static/js/2.1388d388.chunk.js",
+  "static/js/2.1388d388.chunk.js.map": "/chingu-bookfinder/static/js/2.1388d388.chunk.js.map",
   "index.html": "/chingu-bookfinder/index.html",
-  "precache-manifest.288ed94cd474b27246be1cb563369f43.js": "/chingu-bookfinder/precache-manifest.288ed94cd474b27246be1cb563369f43.js",
+  "precache-manifest.09ef1f71adaa85d799e803d0e593db26.js": "/chingu-bookfinder/precache-manifest.09ef1f71adaa85d799e803d0e593db26.js",
   "service-worker.js": "/chingu-bookfinder/service-worker.js",
-  "static/css/main.f006647b.chunk.css.map": "/chingu-bookfinder/static/css/main.f006647b.chunk.css.map"
+  "static/css/main.16f7478c.chunk.css.map": "/chingu-bookfinder/static/css/main.16f7478c.chunk.css.map"
 }
