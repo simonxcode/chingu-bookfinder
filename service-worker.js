@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/chingu-bookfinder/precache-manifest.9e4337b6fe1731b21d7d95e4f2cf67dc.js"
+  "/chingu-bookfinder/precache-manifest.288ed94cd474b27246be1cb563369f43.js"
 );
 
 workbox.clientsClaim();
